@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E43D7CF2-3579-412E-BFA8-9AF0963A7666}|simulacao barco\\simulacao barco.csproj|c:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\animacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43D7CF2-3579-412E-BFA8-9AF0963A7666}|simulacao barco\\simulacao barco.csproj|solutionrelative:simulacao barco\\animacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43D7CF2-3579-412E-BFA8-9AF0963A7666}|simulacao barco\\simulacao barco.csproj|C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43D7CF2-3579-412E-BFA8-9AF0963A7666}|simulacao barco\\simulacao barco.csproj|solutionrelative:simulacao barco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43D7CF2-3579-412E-BFA8-9AF0963A7666}|simulacao barco\\simulacao barco.csproj|C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E43D7CF2-3579-412E-BFA8-9AF0963A7666}|simulacao barco\\simulacao barco.csproj|solutionrelative:simulacao barco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43D7CF2-3579-412E-BFA8-9AF0963A7666}|simulacao barco\\simulacao barco.csproj|C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43D7CF2-3579-412E-BFA8-9AF0963A7666}|simulacao barco\\simulacao barco.csproj|solutionrelative:simulacao barco\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43D7CF2-3579-412E-BFA8-9AF0963A7666}|simulacao barco\\simulacao barco.csproj|C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\graficos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43D7CF2-3579-412E-BFA8-9AF0963A7666}|simulacao barco\\simulacao barco.csproj|solutionrelative:simulacao barco\\graficos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\Form1.cs",
+              "RelativeDocumentMoniker": "simulacao barco\\Form1.cs",
+              "ToolTip": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\Form1.cs [Design]",
+              "RelativeToolTip": "simulacao barco\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:34:52.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\Form1.cs",
+              "RelativeDocumentMoniker": "simulacao barco\\Form1.cs",
+              "ToolTip": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\Form1.cs",
+              "RelativeToolTip": "simulacao barco\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:38:06.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animacao.cs",
+              "DocumentMoniker": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\Animacao.cs",
+              "RelativeDocumentMoniker": "simulacao barco\\Animacao.cs",
+              "ToolTip": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\Animacao.cs",
+              "RelativeToolTip": "simulacao barco\\Animacao.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:09:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arquivos.cs",
+              "DocumentMoniker": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\Arquivos.cs",
+              "RelativeDocumentMoniker": "simulacao barco\\Arquivos.cs",
+              "ToolTip": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\Arquivos.cs",
+              "RelativeToolTip": "simulacao barco\\Arquivos.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:56:58.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Graficos.cs",
+              "DocumentMoniker": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\Graficos.cs",
+              "RelativeDocumentMoniker": "simulacao barco\\Graficos.cs",
+              "ToolTip": "C:\\pbl_2sem (2)\\pbl_2sem\\pbl_2sem\\pbl_2sem\\pbl_2sem\\simulacao barco\\simulacao barco\\Graficos.cs",
+              "RelativeToolTip": "simulacao barco\\Graficos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:16:43.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
